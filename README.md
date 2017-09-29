@@ -1,0 +1,2 @@
+# devops
+For practicing devops
